@@ -1,0 +1,14 @@
+numpy==2.1.0
+scipy
+openai
+kokoro
+langchain-core
+langgraph
+langchain-openai
+langmem
+openai-whisper
+pydantic
+email-validator
+sounddevice
+jupyter
+#sudo apt update && sudo apt install ffmpeg
